@@ -24,7 +24,7 @@
     "eslint-config-next": "16.0.1",
     "lodash": "^4.18.1",
     "next": "^16.4.1",
-    "next-mdx-remote": "^5.0.0",
+    "next-mdx-remote": "^6.0.0",
     "next-pwa": "^5.6.0",
     "next-themes": "^0.4.6",
     "react": "^19.2.0",
@@ -32,7 +32,7 @@
     "react-redux": "^9.2.0",
     "styled-components": "^6.1.19",
     "typescript": "5.9.3",
-    "uuid": "^13.0.0",
+    "uuid": "^14.0.0",
     "yarn": "^1.22.22"
   },
   "scripts": {
@@ -45,7 +45,7 @@
     "@tailwindcss/postcss": "^4.1.17",
     "autoprefixer": "^10.4.22",
     "babel-plugin-react-compiler": "^1.0.0",
-    "postcss": "^8.5.23",
+    "postcss": "^8.5.24",
     "sass": "^1.94.0",
     "tailwindcss": "^4.1.17"
   }
