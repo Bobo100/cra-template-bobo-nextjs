@@ -21,7 +21,6 @@
 - 自訂 Hooks 庫
 - SCSS Modules + Tailwind CSS
 - Redux Toolkit 狀態管理
-- PWA 支援
 
 ### 🎨 主題特色
 
@@ -262,7 +261,6 @@ styles/
 | **狀態管理** | Redux Toolkit | 2.x | 現代化的 Redux 狀態管理 |
 | **主題** | next-themes | 0.4.x | 主題切換解決方案 |
 | **圖示** | FontAwesome | 7.x | 豐富的圖示庫 |
-| **PWA** | next-pwa | 5.x | 漸進式網頁應用程式支援 |
 
 ## 💡 開發建議
 

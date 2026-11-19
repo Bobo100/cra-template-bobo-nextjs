@@ -12,7 +12,6 @@
 - 💅 **SCSS Modules** - 元件級樣式支援
 - 🎯 **FontAwesome** - 豐富的圖示庫
 - 📱 **響應式設計** - Mobile-first 設計理念
-- 🎪 **PWA 支援** - 漸進式網頁應用程式
 - 🎨 **Material Design 3** - 現代化的配色系統
 
 ## 📦 安裝使用
@@ -138,7 +137,6 @@ my-app/
 - **狀態管理**: Redux Toolkit 2.x
 - **主題**: next-themes 0.4.x
 - **圖示**: FontAwesome 7.x
-- **PWA**: next-pwa 5.x
 
 ## 📖 文檔
 
@@ -173,9 +171,7 @@ my-app/
 - Light/Dark 主題切換
 - Redux 狀態管理範例
 - 自訂 Hooks 庫
-- PWA 支援
 - **圖示**: FontAwesome
-- **PWA**: next-pwa
 
 ## 📝 License
 
