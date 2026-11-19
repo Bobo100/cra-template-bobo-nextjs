@@ -89,8 +89,7 @@ export default function Layout({
               crossOrigin="anonymous"
           ></script> */}
 
-        {/* Favicon / PWA */}
-        <link rel="manifest" href="/manifest.json" />
+        {/* Favicon */}
         <link rel="icon" href="/favicon.ico" sizes="any" />
         {/* <link rel="icon" type="image/svg+xml" href="/icon.svg" /> */}
         <link

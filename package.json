@@ -8,8 +8,7 @@
     "typescript",
     "tailwind",
     "redux",
-    "theme",
-    "pwa"
+    "theme"
   ],
   "license": "MIT",
   "author": "Bobo100",
@@ -28,14 +27,5 @@
     "template",
     "template.json",
     "README.md"
-  ],
-  "dependencies": {
-    "@tailwindcss/postcss": "^4.1.17",
-    "next-pwa": "^5.6.0"
-  },
-  "devDependencies": {
-    "autoprefixer": "^10.4.22",
-    "babel-plugin-react-compiler": "^1.0.0",
-    "postcss": "^8.5.6"
-  }
+  ]
 }

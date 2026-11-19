@@ -1,15 +1,6 @@
 // next.config.ts
 import type { NextConfig } from "next";
 import path from "path";
-// next-pwa 是 CJS，這裡用 require 仍可
-// 若你是 "type": "module" 專案，可改用 createRequire 或動態 import
-// eslint-disable-next-line @typescript-eslint/no-var-requires
-const withPWA = require("next-pwa")({
-  dest: "public",
-  disable: process.env.NODE_ENV === "development",
-  register: true,
-  skipWaiting: true,
-});
 
 const nextConfig: NextConfig = {
   sassOptions: {
@@ -33,5 +24,5 @@ const nextConfig: NextConfig = {
   turbopack: {},
 };
 
-export default withPWA(nextConfig);
+export default nextConfig;
 // 或最簡單：在檔尾加一行 `export {};` 也能解 isolatedModules 的報錯
